@@ -1,0 +1,66 @@
+{
+  "badge_url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/{appid}/{hash}.png",
+  "preview_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/{appid}/header.jpg",
+  "apps": [
+    {
+      "title": "Portal 2",
+      "appid": 620,
+      "badges": [
+        {
+          "hash": "6e7f7d3e3d10ade95dc82b937ea23161500ebdca",
+          "title": "I'm A Potato!"
+        },
+        {
+          "hash": "fc8b3366bb0496b6e1fd0d580ecdf8ab9f5e87fc",
+          "title": "Chamber Champion"
+        },
+        {
+          "hash": "4f985503ea52083f94b12928091a96ac60ec752c",
+          "title": "Bloody Brilliant"
+        },
+        {
+          "hash": "c8b017b972ecd597de68ef2b86430ef6769cde0f",
+          "title": "Neurotox-ome"
+        },
+        {
+          "hash": "fb3c0f87ea9942f6ec8f4a326b516c4dc2d94630",
+          "title": "SPAAACE!"
+        },
+        {
+          "hash": "0344230d22ea447e3187daec3604be4c4a020df6",
+          "title": "Aerial Foil Core"
+        }
+      ]
+    },
+    {
+      "title": "Nine Sols",
+      "appid": 1809540,
+      "badges": [
+        {
+          "hash": "49d8d4949d2f40bef70bfda640aa08505808aedc",
+          "title": "Stowaway"
+        },
+        {
+          "hash": "ca66f8f7b8e6a5f28eb61900bbc83cef22026404",
+          "title": "Passenger"
+        },
+        {
+          "hash": "d08a89658afce6d5d1c77551abdec5d853dd354f",
+          "title": "Empyrean"
+        },
+        {
+          "hash": "eeab2219ee2eb7ac6421030955430553e6b9b1bd",
+          "title": "Dusk Guardian"
+        },
+        {
+          "hash": "e52f85373404809d5f669f9d1288389b425d9225",
+          "title": "Royal Clan"
+        },
+        {
+          "hash": "e8827ca023e805cdce7a46c883ad5776b563bacc",
+          "title": "Sol"
+        }
+      ]
+    }
+  ]
+}
