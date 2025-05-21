@@ -32,4 +32,4 @@ def badges():
     return render_template('badges.html', apps=filtered_apps, app_ids=','.join(str(i) for i in app_ids))
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host="0.0.0.0", debug=True)
